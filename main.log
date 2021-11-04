@@ -1,0 +1,283 @@
+INFO:root:Запуск времени программы
+INFO:root:Создание AllUrls Массив всех проверенных Url
+INFO:root:Создание AllUrlsshorten Массив всех проверенных Url коротких и полных
+INFO:root:Загрузка файла messages_to_parse (1).dat
+INFO:root:Поиск Url в файле messages_to_parse (1).dat
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+ERROR:root:.Realtor.comUrl не найден
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+ERROR:root:http://s.ctx.ly/r/1113r',Url не найден
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Добавляем в массив AllUrls
+INFO:root:Добавляем в массив AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrls
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
+INFO:root:Выводим один из елементов AllUrlsshorten
